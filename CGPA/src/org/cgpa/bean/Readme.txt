@@ -1,1 +1,0 @@
-由Schema定义文件生成的Bean
