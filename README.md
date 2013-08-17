@@ -1,5 +1,5 @@
 CGPA
 ====
 
-Building..
-develp
+develop version,for perfect the function
+
